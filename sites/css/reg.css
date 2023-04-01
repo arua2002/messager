@@ -1,0 +1,15 @@
+form{
+  background-color: yellow;
+  text-align: center;
+}
+form input,select{
+  margin: 10px;
+  width: 25%;
+}
+li{
+  display:inline;
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(204,45,253,0.2455357142857143) 100%);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
